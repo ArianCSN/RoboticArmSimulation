@@ -19,6 +19,7 @@ Modify the parameters (mass, inertia, joint limits, etc.) directly in the main_s
 Adjust joint angles or other parameters to observe different arm configurations.
 
 Example Output
+
 ![simulation](https://github.com/ArianCSN/RoboticArmSimulation/assets/146763196/415eb32e-dbf6-4c01-9dbc-48c52312714f)
 
 Acknowledgments
