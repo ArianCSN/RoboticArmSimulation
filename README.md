@@ -26,7 +26,7 @@ This MATLAB project implements a simple robotic arm simulation using the built-i
 
 ## Example Output
 
-![simulation](https://github.com/ArianCSN/RoboticArmSimulation/assets/146763196/415eb32e-dbf6-4c01-9dbc-48c52312714f)
+![simulation](https://github.com/ArianCSN/RoboticArmSimulation/assets/146763196/00a07f8b-f859-46c8-9a4a-a240c60af161)
 
 ## Acknowledgments
 
