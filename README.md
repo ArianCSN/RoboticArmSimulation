@@ -2,11 +2,7 @@
 
 ## Overview
 
-This MATLAB project implements a simple robotic arm simulation using the built-in Robotics System Toolbox. The robotic arm consists of multiple rigid bodies connected by joints, allowing it to move in various configurations. The provided `main_simulation.m` script sets up the robot and displays it in 3D.
-
-## Prerequisites
-
-- MATLAB (with Robotics System Toolbox installed)
+This MATLAB project implements a simple robotic arm simulation. The robotic arm consists of multiple rigid bodies connected by joints, allowing it to move in various configurations. The provided `main_simulation.m` script sets up the robot and displays it in 3D.
 
 ## Getting Started
 
@@ -27,10 +23,6 @@ This MATLAB project implements a simple robotic arm simulation using the built-i
 ## Example Output
 
 ![simulation](https://github.com/ArianCSN/RoboticArmSimulation/assets/146763196/00a07f8b-f859-46c8-9a4a-a240c60af161)
-
-## Acknowledgments
-
-This project was inspired by the Robotics Toolbox for MATLAB.
 
 ## License
 
