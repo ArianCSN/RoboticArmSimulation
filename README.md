@@ -1,29 +1,37 @@
-# **Robotic Arm Simulation Project**
+# Robotic Arm Simulation Project
 
-## **Overview**
-This MATLAB project implements a simple robotic arm simulation using the built-in Robotics System Toolbox. The robotic arm consists of multiple rigid bodies connected by joints.
-The provided main_simulation.m script sets up the robot and displays it in 3D.
+## Overview
 
-## **Prerequisites**
-MATLAB (with Robotics System Toolbox installed)
-Getting Started
-Clone the Repository:
-Clone this repository to your local machine.
-Navigate to the project folder.
-Run the Simulation:
-Open MATLAB.
-Change the current directory to the project folder.
-Run the main_simulation.m script.
-The 3D visualization of the robotic arm will appear.
-Customization:
-Modify the parameters (mass, inertia, joint limits, etc.) directly in the main_simulation.m script to customize the robot’s properties.
-Adjust joint angles or other parameters to observe different arm configurations.
+This MATLAB project implements a simple robotic arm simulation using the built-in Robotics System Toolbox. The robotic arm consists of multiple rigid bodies connected by joints, allowing it to move in various configurations. The provided `main_simulation.m` script sets up the robot and displays it in 3D.
 
-## **Example Output**
+## Prerequisites
+
+- MATLAB (with Robotics System Toolbox installed)
+
+## Getting Started
+
+1. **Clone the Repository:**
+   - Clone this repository to your local machine.
+   - Navigate to the project folder.
+
+2. **Run the Simulation:**
+   - Open MATLAB.
+   - Change the current directory to the project folder.
+   - Run the `main_simulation.m` script.
+   - The 3D visualization of the robotic arm will appear.
+
+3. **Customization:**
+   - Modify the parameters (mass, inertia, joint limits, etc.) directly in the `main_simulation.m` script to customize the robot's properties.
+   - Adjust joint angles or other parameters to observe different arm configurations.
+
+## Example Output
+
 ![simulation](https://github.com/ArianCSN/RoboticArmSimulation/assets/146763196/415eb32e-dbf6-4c01-9dbc-48c52312714f)
 
-## **Acknowledgments**
+## Acknowledgments
+
 This project was inspired by the Robotics Toolbox for MATLAB.
 
-## **License**
+## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
